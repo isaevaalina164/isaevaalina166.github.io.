@@ -1,0 +1,100 @@
+* {
+
+    font: 1.1rem/1.5rem "Georgia", serif;
+}
+
+header {
+    position: relative;
+    top: 0px;
+    height: 120px;
+    width: 80%;
+    right: 10%;
+    left: 10%;
+}
+
+nav {
+    width: 100%;
+    height: 50px;
+    position: static;
+    top: 120px;
+}
+
+main {
+    width: 65%;
+    float: right;
+    top: 250px;
+    right: 10%;
+    margin-right: 10%;
+}
+
+aside {
+    position:sticky;
+    width: 22%;
+    height: 1000px;
+    top: 170px;
+    float: left;
+    left: 1%;
+    color: black;
+}
+
+.link {
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    background-color: none;
+    border-radius: 5px;
+    color: black;
+    padding: 0px;
+    font-size: 1.2rem;
+    font-family: times new roman;
+
+}
+
+.link:hover {
+    background-color: #FF0033;
+}
+
+footer {
+    clear: both;
+}
+
+.head {
+    font: italic small-caps bold 5.5rem cursive;
+}
+
+.lonk {
+    top: 130px;
+    text-decoration: none;
+    display: inline-block;
+    background-color: #494d4e;
+    color: #b6b2b1;
+    font-size: 1rem;
+    padding: 0px;
+}
+
+.lonk:hover {
+    color: #FF0033;
+}
+
+.lunk2 {
+    position: absolute;
+    left: 33%;
+}
+
+.lunk1 {
+    position: absolute;
+    left: 20%;
+}
+
+.lunk {
+    position: absolute;
+    left: 10%;
+}
+
+.pon {
+    color: #2E8B57;
+}
+
+.txt {
+    text-indent: 30px;
+}

@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+}
+
+header {
+    background-color: white;
+}
+
+aside {
+    background-color: #e1e0e0;
+}
+
+nav {
+    background-color: #494d4e;
+}
+
+footer {
+    background-color: #400000;
+    color: white;
+}
+
+#content{
+    background-color: white;
+}
+
+#header {
+    background-color: #c0c0c0;
+}
+
+#info {
+    background-color: #ff8040;
+}
+
+#navigation {
+  background-color: #8080ff;
+}
+
+#footer {
+    background-color: #400000;
+    color: white;
+}
+
+p {
+    text-align: justify;
+}
+p {
+    padding: 0 10px;
+}
